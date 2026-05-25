@@ -28,7 +28,7 @@ learning progress.
 
 Open an issue here:
 
-<https://github.com/JustHappyLab/ShadowCue/issues>
+<https://github.com/jiaqianjing/shadowcue-pages/issues>
 
 Please include the app version, iOS version, device model, and a short
 description of what happened.
